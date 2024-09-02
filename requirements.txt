@@ -1,3 +1,0 @@
-strteamlit
-pandas
-scikit-learn
